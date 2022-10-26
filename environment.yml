@@ -4,7 +4,8 @@ channels:
   - conda-forge
   - anaconda
 dependencies:
-  - _openmp_mutex=5.1=1_gnu
+  #- _openmp_mutex=5.1=1_gnu
+  - _openmp_mutex
   - basemap=1.2.1=py37hd759880_1
   - cartopy=0.17.0=py37hd759880_1006
   - geos=3.7.2=he1b5a44_2
