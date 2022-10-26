@@ -87,4 +87,5 @@ dependencies:
     - widgetsnbextension==3.6.0
     - xarray==0.20.2
     - zipp==3.8.0
+      #    - -e .
 prefix: /home/carlos/anaconda3/envs/readDiag
