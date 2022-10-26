@@ -9,6 +9,7 @@ dependencies:
   - cartopy=0.17.0=py37hd759880_1006
   - geos=3.7.2=he1b5a44_2
     #- libgcc-ng=11.2.0=h1234567_0
+  - _libgcc_mutex
   - libgcc-ng
   - gfortran
   - gcc
